@@ -7,4 +7,6 @@ Writing into the HTML Output using document.write()
 Writing onto an Alert Box using window.alert()
 Writing into the Browser Console using console.log()
 
-
+#HTML Elements
+Building Blocks of HTML Pages
+Headings, Paragraphs, Links, images, Lists, Buttons, divisions, forms
