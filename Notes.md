@@ -1,0 +1,1 @@
+# A function is a block of code that is executed then an action happens or when its called
