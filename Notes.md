@@ -22,3 +22,12 @@ Using camelCase is the best in Javascript, dont use Hyphens first letter small, 
 Javascript statements are instructions to be executed by the browser
 Add whitespace to your Javascript Code to make it more readable, Javascript ignores it
 Add a semi-colon at the end of each executable statement
+Break a Javascript statement after an Operator such as document.getElementById("demo").innerHTML =
+"Hello Dolly.";
+
+#Javascript Keywords
+Var, if else, Break, continue, do while
+Multiple Line comment is also known as a comment block
+Comments prevent execution of code in javascript
+Variables are containers for storing Values
+Strigs in javascript can be written in sigle and double quotes
