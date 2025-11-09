@@ -37,3 +37,4 @@ New Javascript for Naming variables let x = 5; and let y = 6; and const
 Javascript treats $ as a letter. New Javascript
 Strings in Javascript are written with QUotes, Numbers do not have quotes
 A number written in quotes is regarded to as a string
+Let x = 5; x = 7; the first value of X is overwritten by the second value of 7.
