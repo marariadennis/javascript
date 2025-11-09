@@ -17,3 +17,8 @@ Javascript Programms are executed by the Browser
 The Instructions are called Statements
 Variables are used to Store Values
 Javascript Expressions are a combination of Values, Variables and operators that compute to a value
+Javascript Identifiers are Case Sensitive LastName is not the same as lastName
+Using camelCase is the best in Javascript, dont use Hyphens first letter small, second Capital
+Javascript statements are instructions to be executed by the browser
+Add whitespace to your Javascript Code to make it more readable, Javascript ignores it
+Add a semi-colon at the end of each executable statement
