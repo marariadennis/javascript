@@ -32,3 +32,8 @@ Comments prevent execution of code in javascript
 Variables are containers for storing Values
 Strigs in javascript can be written in sigle and double quotes
 You can declare many variables with one statement ie Var person = "john Doe", car = "Volvo", price = 200;
+
+New Javascript for Naming variables let x = 5; and let y = 6; and const
+Javascript treats $ as a letter. New Javascript
+Strings in Javascript are written with QUotes, Numbers do not have quotes
+A number written in quotes is regarded to as a string
