@@ -31,3 +31,4 @@ Multiple Line comment is also known as a comment block
 Comments prevent execution of code in javascript
 Variables are containers for storing Values
 Strigs in javascript can be written in sigle and double quotes
+You can declare many variables with one statement ie Var person = "john Doe", car = "Volvo", price = 200;
