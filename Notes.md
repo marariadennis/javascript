@@ -10,3 +10,10 @@ Writing into the Browser Console using console.log()
 #HTML Elements
 Building Blocks of HTML Pages
 Headings, Paragraphs, Links, images, Lists, Buttons, divisions, forms
+
+#Program
+List of Instructions to be Executed By a Computer
+Javascript Programms are executed by the Browser
+The Instructions are called Statements
+Variables are used to Store Values
+Javascript Expressions are a combination of Values, Variables and operators that compute to a value
