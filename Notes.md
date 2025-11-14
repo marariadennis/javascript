@@ -47,4 +47,14 @@ Javascript Hoisting is Javascript reading your code from top to bottom but secre
 Const does not define a costant value but defines a constant refference to a value.
 You use Const when declaring a new array, a new object, a new function, a new regex
 
-#Data Types in Javascript: Javascript has 8 Datatypes. String, Numbers, bigint, Boolean, Objects(Collection of Key Value Pair of data), Undefined, Null, Symbol
+#Data Types
+In Javascript: Javascript has 8 Datatypes. String, Numbers, bigint, Boolean, Objects(Collection of Key Value Pair of data), Undefined, Null, Symbol
+use typeof to determing the type of Javascript variable
+Strings can be written with both single and double type quotes, you can use quotes in the string as long as they dont match the quotes outside the string "It's one of the Best Decisions ive"
+A Variable without a value has a datatype undefined
+
+#Operators
+Assignment Operator
+Additional Operator + Operator is Used to Concatenate Strings
+Multiplication Operator
+Coparison Operator
