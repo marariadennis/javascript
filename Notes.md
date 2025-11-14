@@ -58,3 +58,10 @@ Assignment Operator
 Additional Operator + Operator is Used to Concatenate Strings
 Multiplication Operator
 Coparison Operator
+
+any comparison with an NaN is false. When you compare a number to a string, Javascript turn the string into an NaN, anything less than an NaN is false.
+
+#Conditional Statements
+if only when the condition is true
+Else, if the first condition is false
+else if. to introduce a new condition
