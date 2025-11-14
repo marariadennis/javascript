@@ -67,3 +67,5 @@ Else, if the first condition is false
 else if. to introduce a new condition
 
 If Statement executes a block of code if the condition is true
+
+In JS == is the Equality Operator it checks if two values are equal after perfoming a type of coercion
