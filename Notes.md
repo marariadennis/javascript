@@ -65,3 +65,5 @@ any comparison with an NaN is false. When you compare a number to a string, Java
 if only when the condition is true
 Else, if the first condition is false
 else if. to introduce a new condition
+
+If Statement executes a block of code if the condition is true
