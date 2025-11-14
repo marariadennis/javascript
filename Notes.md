@@ -45,3 +45,4 @@ Javascript Hoisting is Javascript reading your code from top to bottom but secre
 #Const cannot be redeclared or Redefined in JS
 
 Const does not define a costant value but defines a constant refference to a value.
+You use Const when declaring a new array, a new object, a new function, a new regex
