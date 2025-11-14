@@ -43,3 +43,5 @@ Variables declared with var can be redeclared but with Let, they cannot be redec
 Redeclaring a variable inside a block while using let is not allowed in ES16
 Javascript Hoisting is Javascript reading your code from top to bottom but secretly moving some things to the top before running
 #Const cannot be redeclared or Redefined in JS
+
+Const does not define a costant value but defines a constant refference to a value.
