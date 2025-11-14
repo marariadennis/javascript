@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Creating Objects in Javascript</title>
+  </head>
+  <body>
+    <h2>Javascript Cost</h2>
+    <p>Declaring a Javascript Object does not make them unchangeable</p>
+
+    <p id="demo"></p>
+
+    <script>
+      const cars = { type: "fiat", model: "500", color: "white" };
+
+      //Changing a Property
+      cars.color = "Red";
+
+      //Add a Property
+
+      cars.owner = "Johnson";
+
+      //Displaying the property
+
+      document.getElementById("demo").innerHTML =
+        "The Car Owner is " + cars.owner + "and the car color is " + cars.color;
+    </script>
+  </body>
+</html>
